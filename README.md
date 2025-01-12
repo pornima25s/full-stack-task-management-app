@@ -48,6 +48,7 @@ You will see the HungerHub application running. Explore the app to browse local 
 
 [Watch the demo video](./src/screenshots/ScreenRecording.mp4)
 
+![HeroPage](./src/screenshots/HeroPage.png)
 
 Deployment
 HungerHub is deployed on Vercel and can be accessed at the following link:
