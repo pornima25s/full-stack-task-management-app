@@ -1,4 +1,5 @@
-# HungerHub  [HungerHub Live](https://hungerhub.vercel.app/)
+# HungerHub  
+[HungerHub Live](https://hungerhub.vercel.app/)
 
 HungerHub is your go-to food delivery platform, offering a seamless experience to explore, order, and enjoy your favorite meals from local restaurants. Fast, reliable, and always fresh, we bring delicious food right to your doorstep. Join us and satisfy your cravings with ease!  
 
